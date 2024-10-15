@@ -9,16 +9,7 @@ name: "base"
 channels:
   - conda-forge
 # Update the list of packages here
-dependencies:
-  - pandas
-  - numpy
-  - scipy
-  - scikit-learn
-  - plotly
-  - pytorch
-  - transformers
-  - pytorch-lightning
-  - matplotlib
-  - seaborn
-  - tqdm
+# dependencies:
+# - add packages here
+# - one per line
 prefix: "/opt/conda"
