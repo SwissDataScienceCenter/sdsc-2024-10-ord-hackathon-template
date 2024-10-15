@@ -1,1 +1,1 @@
-# sdsc-2024-10-ord-hackathon-template
+# Template for building Docker images in Renku 2.0
