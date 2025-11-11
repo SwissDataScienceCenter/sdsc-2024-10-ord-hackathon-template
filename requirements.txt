@@ -3,9 +3,7 @@ numpy
 scipy
 scikit-learn
 plotly
-torch
 transformers
-pytorch-lightning
 matplotlib
 seaborn
 tqdm
